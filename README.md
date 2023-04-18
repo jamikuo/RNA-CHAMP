@@ -8,7 +8,7 @@ doi: https://doi.org/10.1101/2023.03.27.534188
 
 ### Image analysis pipeline
 RNA-CHAMP is a protein-RNA interaction profiling platform based on a previously described CHAMP.
-Image align pipeline were identical to CHAMP and is available at https://github.com/finkelsteinlab/CHAMP.
+Image align pipeline is identical to CHAMP and available at https://github.com/finkelsteinlab/CHAMP.
 
 Fitted data use in the manuscript is available in the cas13d_binding_data directory.
 Linear model and machine learning model is available in the cas13d_modeling directory.
