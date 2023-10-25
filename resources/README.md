@@ -1,7 +1,3 @@
-# Piwarmer Programs
-
-We have several programs to heat Illumina chips during each phase of the experiment. Learn more about those [here](piwarmer/).
-
 # Stage Designs 
 
 Parts were designed in OpenSCAD and exported to .dxf (AutoCAD) for machining. We provide OpenSCAD files in case you want to modify the original design, and dxf if you just want to replicate our current setup. 
